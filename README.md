@@ -1,9 +1,9 @@
 # About this repo:
 This directory includes scripts associated with results presented in the paper:
 
-**7T MRI and PET study of abnormalities of iron homeostasis and the dopaminergic system in Tourette syndrome**
+Gkotsoulias D.G. et al., 7T MRI and PET study of abnormalities of iron homeostasis and the dopaminergic system 
+in Tourette syndrome, **Brain Communications**, 2025; https://doi.org/10.1093/braincomms/fcaf104
 
-by *D.G.Gkotsoulias et al.*, published in **BRAIN Communications**.
 
 Corresponding packages used in parts of the processing can be found in:
 
